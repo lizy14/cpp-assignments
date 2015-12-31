@@ -1,0 +1,14 @@
+#include <stdio.h>
+int main(){
+	puts("hello,");
+putchar(' ');
+	puts("world.");
+	puts("have a nice day:)");
+;
+;
+	puts("aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa");
+	//
+}
+
+class Class{
+};
